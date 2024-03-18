@@ -3,16 +3,16 @@ DS,inserter
 SP,C:\Users\kyran\Documents\GitHub\teletext\P101.tti
 PN,10100
 SC,0000
-PS,8001
+PS,8000
 CT,8,T
 RE,0
-OL,0,P101     wxTED New page          %H:%M.%
-OL,3,   Welkom bij De asja show              
-OL,6,   Ajsa is onze hond.                   
-OL,7,   Botje?                               
-OL,8,   IK WIL EEN BOTJE                     
-OL,9,   Nee Asja                             
-OL,10,   GRRRR                                
-OL,12,   Asja loopt rond te zoeken naar een   
-OL,13,   botje. maar Asja vind geen botje maar
-OL,14,   een mandje! Asja gaat snokken ZZZZzz 
+OL,0,        wxTED New page          %H:%M.%S
+OL,3,     Welkom bij De asja show            
+OL,6,     Ajsa is onze hond.                 
+OL,7,     Botje?                             
+OL,8,     IK WIL EEN BOTJE                   
+OL,9,     Nee Asja                           
+OL,10,     GRRRR                              
+OL,12,     Asja loopt rond te zoeken naar een 
+OL,13,     botje. maar Asja vind geen botje ma
+OL,14,     een mandje! Asja gaat snokken ZZZZz
