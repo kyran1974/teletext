@@ -1,8 +1,8 @@
 DE,ITV News
 DS,inserter
 SP,C:\Users\kyran\Documents\GitHub\teletext\p100.tti
-PN,10000
-SC,0000
+PN,10001
+SC,0001
 PS,8040
 CT,15,C
 RE,0
@@ -28,4 +28,13 @@ OL,20,A```````````````````````````````````````
 OL,21,F   CBIG ISSUESFBritish justiceC141     
 OL,22,G]D@  NEED LEGAL ADVICE? Asee p389      
 OL,24,ANext   BIndex   CRegional   F24 Hours  
+FL,305,301,330,140,301,f
+PN,10002
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,New subpage inserted 2/2                
+OL,3,         biest                          
 FL,305,301,330,140,301,f
