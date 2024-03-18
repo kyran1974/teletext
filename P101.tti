@@ -1,7 +1,11 @@
 DE,Description goes here
 DS,inserter
+<<<<<<< HEAD
 SP,C:\Users\kyran\Documents\GitHub\teletext\P101.tti
 PN,10100
+=======
+PN,1ff00
+>>>>>>> 790defd177930bf23476fbb0df6516fbfb36abeb
 SC,0000
 PS,8000
 CT,8,T
